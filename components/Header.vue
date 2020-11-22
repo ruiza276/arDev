@@ -31,7 +31,7 @@ export default {
 .topnav {
   background-color:rgb(23,	62	,67);
   overflow: hidden;
-  position: relative;
+  position: fixed;
   left: 0;
   top: 0;
   width: 100vw;
@@ -48,8 +48,8 @@ export default {
 }
 
 .topnav a:hover {
-  background-color: rgb(221,223,212);
-  color: black;
+  background-color: #35495e;
+  color: #fff;
 }
 
 </style>

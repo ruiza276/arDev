@@ -18,6 +18,7 @@ export default {
   left: 0;
   bottom: 0;
   width: 100vw;
+  display: inline-block;
 }
 
 .footer-container h3 {
