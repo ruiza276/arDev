@@ -29,7 +29,7 @@ Going forward, I would love to one day leverage my Data Mining knowledge profess
   <li>Making <a class="links" href="https://open.spotify.com/playlist/6z7giYkmjrXW1B09gMRUTi?si=mTvDlOFOQkerhKMzjt3gCQ" target="_blank"> Spotify Playlists</a></li>
   <li>Biking</li>
   <li>Arguing with my friends which Lady Gaga album is the best (It's The Fame Monster)</li>
-  <li>Playing the Ukelele and hoping to be good enough to level up to a bass guitar one day</li>
+  <li>Playing the Ukulele and hoping to be good enough to level up to a bass guitar one day</li>
   <li>Laughing at memes on Twitter</li>
 </ul>
 
