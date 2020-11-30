@@ -5,7 +5,7 @@
       <h1 class="title">About Me...</h1>
       <p>Hello Hi my name is Alex Ruiz. I'm a Software Engineer based in the Chicago-land area (Ask me about Malört or for a coffee shop recommendation!).</p>
       <h2 class="title"> The Past ☕</h2>
-      <p>Before becoming a Software Engineer I was a electronics technician with a decent talent in IPhone screen repairs and before that I was a barista, slinging out Instagram worthy lattes. 
+      <p>Before becoming a Software Engineer, I was a electronics technician with a decent talent in IPhone screen repairs and before that I was a barista, slinging out Instagram worthy lattes. 
         Even got third place in a latte art competition that I entered by accident.</p>
       <p>I graduated from DePaul University with a B.S, majoring in Computer Science with a concentration in Software Development and a minor in Data Analysis and Data Mining. 
         I was very disappointed to learn that the mouthful that is my major and minor would not be printed on the physical copy of my degree.</p>

@@ -1,7 +1,7 @@
 <template>
   <div class="container">
   <Header />
-    <h1 class="Blog-title">Blog Posts</h1>
+    <h1 class="Blog-title">Blog Posts ✍️</h1>
     <ul>
       <li v-for="article of articles" :key="article.slug">
         <NuxtLink :to="{ name: 'blog-slug', params: { slug: article.slug } }"
@@ -53,6 +53,7 @@ import LayoutDefault from '../../layouts/default.vue';
   color: #35495e;
   text-decoration: none;
   font-size: 15px;
+  display: inline-block;
 
 }
 
@@ -63,7 +64,7 @@ ul {
 .Blog-title {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: block;
+  display: inline-block;
   font-weight: 300;
   font-size: 40px;
   color: #35495e;
@@ -73,14 +74,15 @@ ul {
 .blog-sub-title {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: block;
-  font-weight: 300;
-  font-size: 15px;
+  font-weight: 700;
+  font-size: 25px;
   color: #35495e;
 }
 
 .blog-sub-title:hover {
   color: #fff;
+  background-color: #35495e;
+  overflow: hidden;
 }
 
 </style>
