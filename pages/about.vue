@@ -48,7 +48,6 @@ export default {
   margin: 0 auto;
   text-align: left;
   padding-top: 25px;
-  padding-bottom: 55px;
   font-family: system-ui;
 }
 

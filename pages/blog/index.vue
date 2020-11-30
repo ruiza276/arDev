@@ -45,7 +45,6 @@ import LayoutDefault from '../../layouts/default.vue';
   text-align: left;
   padding-top: 25px;
   padding-bottom: 55px;
-  font-family: system-ui;
 
 }
 
@@ -54,7 +53,6 @@ import LayoutDefault from '../../layouts/default.vue';
   text-decoration: none;
   font-size: 15px;
   display: inline-block;
-
 }
 
 ul {

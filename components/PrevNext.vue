@@ -44,8 +44,8 @@
   margin: 0 auto;
   justify-content: center;
   text-align: center;
-  font-family: system-ui;
 }
+
 
 .prevnexlinks {
   padding-bottom: 3%;

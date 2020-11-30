@@ -50,13 +50,14 @@ async asyncData({ $content, params }) {
 .container {
   margin: 0 auto;
   text-align: left;
-  padding-bottom: 5%;
   font-family: system-ui;
 }
 .links {
   color: #35495e;
   text-decoration: none;
 }
+
+
 
 .links:hover {
   color: #fff;
@@ -70,7 +71,7 @@ async asyncData({ $content, params }) {
   font-size: 200%;
   color: #35495e;
   letter-spacing: 1px;
-  padding-top: 3%;
+  padding-top: 4%;
 }
 
 .sub-title {
