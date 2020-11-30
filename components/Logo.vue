@@ -20,7 +20,7 @@
       fill="#2F495E"
     />
   </svg> -->
-  <img src="~assets/devlogo2.png">
+  <img  alt="i made this logo in GIMP in under 5 minutes and in that time ive grown very attached" src="~assets/devlogo2.png">
 </div>
 </template>
 

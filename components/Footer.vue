@@ -1,6 +1,8 @@
 <template>
+<div class="container">
 <div class="footer-container">
   <h3>arDev</h3>
+</div>
 </div>
 </template>
 
@@ -19,6 +21,7 @@ export default {
   bottom: 0;
   width: 100vw;
   display: inline-block;
+  font-family: system-ui;
 }
 
 .footer-container h3 {

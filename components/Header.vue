@@ -2,9 +2,9 @@
 <section>
   <div class="Header">
     <div class="topnav">
-      <a href="/">Home</a>
-      <a href="about">About</a>
-      <a href="#contact">Blog</a>
+    <NuxtLink to="/">Home</NuxtLink>
+    <NuxtLink to="/about">About</NuxtLink>
+    <NuxtLink to="/blog">Blog</NuxtLink>
     </div>
   </div>
 </section>
@@ -27,6 +27,7 @@ export default {
   justify-content: center;
   align-items: center;
   text-align: center;
+  padding-bottom: 5%;
 }
 .topnav {
   background-color:rgb(23,	62	,67);
@@ -35,7 +36,7 @@ export default {
   left: 0;
   top: 0;
   width: 100vw;
-  padding-bottom: 10px;
+  padding-bottom: 2%;
 }
 
 .topnav a {

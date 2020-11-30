@@ -33,6 +33,7 @@
 export default {}
 </script>
 
+
 <style>
 .container {
   margin: 0 auto;
@@ -40,7 +41,6 @@ export default {}
   justify-content: center;
   text-align: center;
 }
-
 .title {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
@@ -51,9 +51,4 @@ export default {}
   letter-spacing: 1px;
 }
 
-
-.links {
-  padding-top: 15px;
-  padding-bottom: 75px;
-}
 </style>
