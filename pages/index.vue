@@ -15,7 +15,7 @@
           GitHub
         </a>
         <a
-          href="https://www.linkedin.com/in/alex-andrea-ruiz-6205b113b/"
+          href="linkedin.com/in/alex-r-6205b113b/"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
