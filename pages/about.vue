@@ -16,11 +16,12 @@ Going forward, I would love to one day leverage my Data Mining knowledge profess
 <ul>
   <li>.NET Core (C#)</li>
   <li>Vue.js (this site was built using Vue.js and Nuxt.js)</li>
-  <li>HTML + CSS</li>
+  <li>HTML + CSS + ReactJS</li>
   <li>Git/Github + Bitbucket</li>
   <li>Python</li>
   <li>Java</li>
-  <li>R</li>
+  <li>I can use Azure!</li>
+  <li>GitHub CoPilot</li>
 </ul>
 <h1 class="sub-title">Things I do/have interest in that are not Tech 🚴</h1>
 <ul>
