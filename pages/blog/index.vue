@@ -29,8 +29,10 @@ import LayoutDefault from '../../layouts/default.vue';
     async asyncData({ $content, params }) {
       const articles = await $content('articles', params.slug)
         .only(['title', 'description', 'slug', 'author'])
-        .sortBy('createdAt', 'asc')
+        .sortBy('createdAt', 'desc')
         .fetch()
+
+      //console.log(articles);
 
       return {
         articles
