@@ -14,14 +14,14 @@
 Going forward, I would love to one day leverage my Data Mining knowledge professionally. I absolutely love working with data and all the cool insights that are waiting to be discovered. </p>
 <h1 class="sub-title">Some of the Tech I've worked/working with 💻</h1>
 <ul>
-  <li>.NET Core (C#)</li>
-  <li>Vue.js (this site was built using Vue.js and Nuxt.js)</li>
-  <li>HTML + CSS + ReactJS</li>
-  <li>Git/Github + Bitbucket</li>
   <li>Python</li>
   <li>Java</li>
+  <li>.NET Core (C#) [Back End stuff]</li>
+  <li>Vue.js (this site was built using Vue.js and Nuxt.js)</li>
+  <li>React.js + Next.js + HTML + CSS (Front End stuff)</li>
+  <li>Git/Github + Bitbucket</li>
   <li>I can use Azure!</li>
-  <li>GitHub CoPilot</li>
+  <li>GitHub CoPilot...honestly what a godsend this bot this</li>
 </ul>
 <h1 class="sub-title">Things I do/have interest in that are not Tech 🚴</h1>
 <ul>
@@ -31,7 +31,7 @@ Going forward, I would love to one day leverage my Data Mining knowledge profess
   <li>Biking</li>
   <li>Thinking</li>
   <li>Playing the Ukulele sometimes and re-learning the Saxophone</li>
-  <li>Laughing at memes on Twitter</li>
+  <li>Andar de pata de perro</li>
 </ul>
 
 <Footer />
